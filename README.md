@@ -1,16 +1,25 @@
-### Hi there 👋
-
-<!--
-**matiasfalconaro/matiasfalconaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Python
+resume_highligths = {
+    "profile": Profile(
+        name="Matias Falconaro",
+        role="Software Developer",
+        specialization=Specialization(
+            focus="Cloud Back-End Solutions",
+            areas=["Development", "Cloud Computing", "DevOps"]
+        )
+    ),
+    "contact": Contact(
+        email="matiasfalconaro@gmail.com",
+        links=Links(linkedIn="https://linkedin.com/in/matiasfalconaro")
+    ),
+    "skills": [
+        Skill(name="Sys Admin", technologies=["Linux", "Bash Scripting", "Pipelining"]),
+        Skill(name="Database", technologies=["PostgreSQL", "SQLite3", "SAP HANA"]),
+        Skill(name="Cloud", technologies=["AWS", "SAP BTP", "Docker", "CloudFoundry"]),
+        Skill(name="Core", technologies={
+          "Front-End": ["HTML", "CSS", "JavaScript", "React"],
+          "Back-End": ["Python", "SQLAlchemy", "Flask"]
+        }),
+    ]
+}
+```
