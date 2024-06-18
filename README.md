@@ -1,7 +1,7 @@
 ```JSX
 // HighLights
 <Bio
-  name="Matias Leandro Falconaro"
+  name="Matias Falconaro"
   occupation="Software developer"
   languages="Python, Javascript, Shell, C"
   location="Buenos Aires"
