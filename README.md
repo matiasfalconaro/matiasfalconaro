@@ -3,7 +3,7 @@
 <Bio
   name="Matias Leandro Falconaro"
   occupation="Software developer"
-  languages="Python, Javascript, Shell"
+  languages="Python, Javascript, Shell, C"
   location="Buenos Aires"
 />
 ```
