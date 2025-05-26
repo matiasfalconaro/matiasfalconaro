@@ -4,7 +4,7 @@
 bio() {
   echo "Name: Matias Falconaro"
   echo "Occupation: Software developer"
-  echo "Languages: Bash, Python, C, Javascript"
+  echo "Languages: Bash, C, Python"
   echo "Location: Buenos Aires"
   echo "Website: www.mfalconaro.net"
 }
