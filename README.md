@@ -3,7 +3,7 @@
 <Bio
   name="Matias Falconaro"
   occupation="Software developer"
-  languages="Bash, Python, C, Javascript"
+  languages="Bash, Python, C"
   location="Buenos Aires"
   website="www.mfalconaro.net"
 />
