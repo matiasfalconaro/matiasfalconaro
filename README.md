@@ -1,5 +1,5 @@
 ```Bash
-#!/bin/bash# HighLights
+#!/bin/bash
 
 bio() {
   echo "Name: Matias Falconaro"
