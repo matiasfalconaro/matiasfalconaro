@@ -1,5 +1,6 @@
 ```Bash
-# HighLights
+#!/bin/bash# HighLights
+
 bio() {
   echo "Name: Matias Falconaro"
   echo "Occupation: Software developer"
