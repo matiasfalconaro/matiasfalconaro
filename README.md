@@ -7,6 +7,6 @@ bio() {
   echo "Languages: Bash, C, Python"
   echo "Interests: Automation, Backend, Modeling, Simulation"
   echo "Location: Buenos Aires"
-  echo "Website: www.mfalconaro.net"
+  echo "Website: www.mfalconaro.com"
 }
 ```
